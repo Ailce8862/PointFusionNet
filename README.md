@@ -3,7 +3,7 @@ This repository contains the author's implementation in Pytorch for the paper: P
 ## Requirement
 * Ubuntu 16.04
 * Python 3 (recommend Anaconda3)
-* Pytorch 0.3.*/0.4.*
+* Pytorch 0.3/0.4
 * CMake > 5.4
 * CUDA 9.0 + cuDNN 7.6
 ## Download Dataset
